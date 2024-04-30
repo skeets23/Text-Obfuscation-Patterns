@@ -1,5 +1,5 @@
-# Text-Obfuscation-Patterns
-A table of letters and symbols commonly used to mimic them
+# Text-Obfuscation-Table
+A table of letters and symbols commonly used to obfuscate them
 
 
 |Letter|Replacements|
