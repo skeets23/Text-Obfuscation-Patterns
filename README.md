@@ -1,5 +1,5 @@
 # Text-Obfuscation-Table
-A table of letters and symbols commonly used to obfuscate them
+A table of letters and the symbols commonly used to obfuscate them
 
 
 |Letter|Replacements|
